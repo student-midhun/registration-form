@@ -1,0 +1,16 @@
+    #radius-shape-1 {
+      height: 220px;
+      width: 220px;
+      top: 110px;
+      left: 130px;
+      overflow: hidden;
+    }
+
+    #radius-shape-2 {
+      border-radius: 38% 62% 63% 37% / 70% 33% 67% 30%;
+      bottom: 30px;
+      right: 180px;
+      width: 200px;
+      height: 300px;
+      overflow: hidden;
+    }
